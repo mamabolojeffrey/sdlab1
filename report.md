@@ -1,0 +1,1 @@
+i have created a github repository names 2716385-LAB and creacted files : report.md ,student_info.txt which has my student details and lastly an index.html file that has a html that was requested.
